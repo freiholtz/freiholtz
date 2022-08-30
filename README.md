@@ -8,11 +8,11 @@ If you want to see projects you can find them here or on [my hompage](https://ww
 ## Roadmap
 - [x] Following a Django kickstart course ([Repo](https://github.com/freiholtz/Django-Course-StudyBud), [Live site](https://studybud.davidfreiholtz.com))
 - [ ] Solving my homepage portfolio need with Django and increasing the techstack ([Repo](https://github.com/freiholtz/django-davidfreiholtz-com), [Live site](https://www.davidfreiholtz.com))
-- [ ] Making a public service with Django that I and other have use for with a professional techstack. (Spoiler! It will be about danceing.)
+- [ ] Making a public service with Django that I and other have use for with a professional techstack. (Spoiler! It will be about dancing.)
 - [ ] Applying and getting a Python/Django job
 
 ## Timeline
-- **2022** - 🎉 I finally figured out myself and my strengths and weaknesess in work and social life and now I'm taking up my programming career again.
+- **2022** - 🎉 I finally figured out myself and my strengths and weaknesses in work and social life and now I'm taking up my programming career again.
 - |    - Social Dancing [Fox & Bug (Swedish dance styles)](https://www.youtube.com/watch?v=zuPvNkWM9fY), [Bachata](https://www.youtube.com/watch?v=B9Kn0Mqi1Fc), [Salsa](https://www.youtube.com/watch?v=Hiqa494fzAU), [West Coast Swing](https://www.youtube.com/watch?v=pThyN7wDbdw).
 - |    - Technical Sales & IT-support, WordPress Webmaster jobs the last one +5 years at a cPanel hosting company 
 - **2005** - Took a permanent break from studying 
