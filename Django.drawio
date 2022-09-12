@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T07:46:29.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="xOdULjdzdm4qBs7Ycpza" type="github"><diagram id="S0pX4d89dkeNPHOc7mpw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-12T08:12:40.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="M8wvY_96NyXQg5nNgolJ" version="20.3.0" type="github">
+  <diagram id="S0pX4d89dkeNPHOc7mpw" name="Sida-1">
+    <mxGraphModel dx="946" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8A4HCvqLS-myiyENNX16-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A4HCvqLS-myiyENNX16-1" target="8A4HCvqLS-myiyENNX16-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-1" value="Request" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A4HCvqLS-myiyENNX16-2" target="8A4HCvqLS-myiyENNX16-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A4HCvqLS-myiyENNX16-10" target="8A4HCvqLS-myiyENNX16-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-12" value="Response" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A4HCvqLS-myiyENNX16-14" target="8A4HCvqLS-myiyENNX16-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-25" value="Template" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8A4HCvqLS-myiyENNX16-16">
+          <mxGeometry x="-0.0167" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8A4HCvqLS-myiyENNX16-17" target="8A4HCvqLS-myiyENNX16-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-20" value="Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8A4HCvqLS-myiyENNX16-19">
+          <mxGeometry x="0.05" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-22" value="Base App" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-4" value="App&lt;br&gt;eg. base/urls.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-22">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-8" value="Views&lt;br&gt;eg base/views.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-22">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8A4HCvqLS-myiyENNX16-22" source="8A4HCvqLS-myiyENNX16-4" target="8A4HCvqLS-myiyENNX16-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-10" value="Render Templates&lt;br&gt;eg. base/templates/base.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-22">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8A4HCvqLS-myiyENNX16-22" source="8A4HCvqLS-myiyENNX16-8" target="8A4HCvqLS-myiyENNX16-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-23" value="Blog App" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-17" value="App&lt;br&gt;eg. blog/models.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-23">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-14" value="Inclue Templates&lt;br&gt;eg. blog/templates/posts-widget.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-23">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-24" value="Project" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-2" value="Project&lt;br&gt;eg. config/urls.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-24">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
