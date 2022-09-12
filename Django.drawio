@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T08:12:40.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="M8wvY_96NyXQg5nNgolJ" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T08:18:57.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Dnz0D3pBOuWEwHrvkBvd" version="20.3.0" type="github">
   <diagram id="S0pX4d89dkeNPHOc7mpw" name="Sida-1">
     <mxGraphModel dx="946" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8A4HCvqLS-myiyENNX16-23" value="Blog App" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="200" height="200" as="geometry" />
+          <mxGeometry x="520" y="360" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8A4HCvqLS-myiyENNX16-17" value="App&lt;br&gt;eg. blog/models.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-23">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -62,10 +62,28 @@
         <mxCell id="8A4HCvqLS-myiyENNX16-14" value="Inclue Templates&lt;br&gt;eg. blog/templates/posts-widget.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-23">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-26" value="Manager&lt;br&gt;eg. TaggableManager()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-23">
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8A4HCvqLS-myiyENNX16-24" value="Project" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8A4HCvqLS-myiyENNX16-2" value="Project&lt;br&gt;eg. config/urls.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-24">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8A4HCvqLS-myiyENNX16-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="430" as="sourcePoint" />
+            <mxPoint x="660" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8A4HCvqLS-myiyENNX16-26" target="8A4HCvqLS-myiyENNX16-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-32" value="Datastore" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8A4HCvqLS-myiyENNX16-30" value="Database&lt;br&gt;eg. SQLite or PGSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8A4HCvqLS-myiyENNX16-32">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
