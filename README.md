@@ -7,7 +7,7 @@ If you want to see projects you can find them here or on [my hompage](https://ww
 
 ## Roadmap
 - [x] Following a Django kickstart course ([Repo](https://github.com/freiholtz/Django-Course-StudyBud), [Live site](https://studybud.davidfreiholtz.com))
-- [ ] Solving my homepage portfolio need with Django and increasing the techstack ([Repo](https://github.com/freiholtz/django-davidfreiholtz-com), [Live site](https://www.davidfreiholtz.com))
+- [x] Solving my homepage portfolio need with Django and increasing the techstack ([Repo](https://github.com/freiholtz/django-davidfreiholtz-com), [Live site](https://www.davidfreiholtz.com))
 - [ ] Making a public service with Django that I and other have use for with a professional techstack. (Spoiler! It will be about dancing.)
 - [ ] Applying and getting a Python/Django job
 
