@@ -1,5 +1,5 @@
-# 🐍 + 🦄
-## Python + Django
+# Python & Django Developer
+## With a love of podcasting, wellness and social dancing
 
 In 2022 I made a conscious transition to go back to programming and more specifically python and Django development. This after a five-year period of cPanel sales and IT support. I love to create things under the webpage it's such a good medium to both create and to connect people with services and ideas.
 
