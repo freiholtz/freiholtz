@@ -19,7 +19,7 @@ All are Django sites and use tech like:
 ### [SocialDancer.org](https://socialdancer.org/)
 Finding social dances and courses all over the world.
 
-### [VikingWeather.com](https://vikingweather.com/)
+### [WikingWeather.com](https://wikingweather.com/)
 Viking-centric lunar-based calendar, sky and weather.
 
 ### [pythonjobb.se](https://www.pythonjobb.se/)
