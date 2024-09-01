@@ -1,20 +1,19 @@
-# Hi!👋 I'm a Python🐍 and Django🐴 developer!
+# Hi!👋 I'm a Python🐍 web developer eg. Django and FastHTML
 ## At night, I become a dancer ✨💃🏻🕺🏻🪩
 
-## 💼 CV
-
+## 🎓 CV
+- 2024: Still working full time as Django developer and Kubernetes deployment manager at a Newsletter SaaS. But now on my spare time I have also learnt prompt engineering, working with LLM-api's, FastHTML. 
 - 💪 2023: Started working full-time as a Django developer at a newsletter SaaS company, and learning Kubernetes in a multinational team.
-- 💡 2022: Finally decided to become a Django developer no matter what. Started working part-time on an old Django site as a consultant.
-- 💸 ...the dark ages of working for rent in diverse IT jobs while figuring out what I wanted to do for a living...
+- 💡 2022: Finally decided that even if I never seen a happy developer I can will re-train to become one anyway because I love coding. So I learnt Python (because was pretty and good for AI) and Django because I still want to be involved in webdevelopment.
+- 💸 ↑↑↑↑  ... a bit of WordPress web dev turned in to a lot of IT-tech support jobs and IT-sales ...
 - 👨🏻‍🔬 2003: Completed 2 years of computer science at Chalmers University of Technology in Gothenburg, Sweden.
 
-## ❤️‍🔥 Projects
-All are Django sites and use tech like:
+## In my passion ❤️‍🔥 Projects I like to use 
 - **Frontend:** TailWind, HTMX, Alpine.JS, Daisy UI
-- **Backend:** Wagtail, Takahe, Ninja, Django Rest Framework, Pydantic
+- **Backend:** FastHTML, Django, Wagtail
 - **Testing:** Pytest, Ruff, Black, Sentry
 - **DB:** MySQL, PostgreSQL
-- **Hosting:** Docker, cPanel, Fly.io
+- **Hosting:** Docker on Fly.io or Railway
 
 ### [SocialDancer.org](https://socialdancer.org/)
 Finding social dances and courses all over the world.
@@ -28,10 +27,6 @@ Helping Swedish Python developers find jobs.
 ### [davidfreiholtz.com](https://www.davidfreiholtz.com/)
 My blog and portfolio.
 
-### [freiholtz.net](https://freiholtz.net/)
-My Django-based Mastodon instance 
 
 Contact me on:
-- Signal: [46709313340](https://signal.me/#p/46709313340)
-- Mail: [freiholtz@proton.me](mailto:freiholtz@proton.me)
-- Mastodon: @freiholtz@freiholtz.net
+- https://linktr.ee/freiholtz
